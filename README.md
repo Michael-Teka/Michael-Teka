@@ -6,12 +6,11 @@
 
 ## 🔧 What I Do
 - 📱 Develop cross-platform apps using **Flutter**
-- 🌐 REST API integration and backend systems (Django, Node.js)
+- 🌐 REST API integration and backend systems
 - 🔧 State management (Provider, Riverpod, etc.)
 - 🧠 Smart apps using AI, computer vision, and IoT integration
-- 🛠️ Tools I use: Flutter, Dart, Firebase, Python, Git, PostgreSQL
+- 🛠️ Tools I used are such as Flutter, Dart, Firebase, Python, Git, PostgreSQL
 - 🧠 Apply **Python** and **OpenCV** for image processing and machine learning prototypes
-- 🌐 Work with backend technologies like **Django** and **Firebase**
 - 🛠️ Explore automation, robotics, and manufacturing technologies
 
 ## 🚀 Projects I'm Proud Of
